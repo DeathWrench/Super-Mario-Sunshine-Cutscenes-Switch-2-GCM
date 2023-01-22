@@ -8,6 +8,9 @@ This is something I wanted to do for a while but sat on because at the time I di
 ## How they look
 ![image](https://user-images.githubusercontent.com/45341450/213933419-1177f480-5469-4efd-9a12-7761f52ed26b.png)
 
+## Recommended procedure
+Before you get started, patch your rom with this [Widescreen Patch by gamemasterplc](https://www.youtube.com/watch?v=kG4IL_L8VI8) 
+It removes the black bars on the top and bottom of the screen, these appear during cutscenes.
 
 ## Installation
 [Dolphin extract and repack games tutorial](https://www.youtube.com/watch?v=uK5HI6fQVK4)\
