@@ -5,6 +5,10 @@ The purpose for making this was that the original cutscenes on Super Mario Sunsh
 
 This is something I wanted to do for a while but sat on because at the time I didn't really know what I was doing. I had some motiviation and figured I'd give it another shot. 
 
+## How they look
+![image](https://user-images.githubusercontent.com/45341450/213933419-1177f480-5469-4efd-9a12-7761f52ed26b.png)
+
+
 ## Installation
 [Dolphin extract and repack games tutorial](https://www.youtube.com/watch?v=uK5HI6fQVK4)\
 Follow the instructions in the video above and replace the .thp files in ``files\data``
