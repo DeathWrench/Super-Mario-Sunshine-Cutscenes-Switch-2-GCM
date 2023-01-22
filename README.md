@@ -9,9 +9,10 @@ This is something I wanted to do for a while but sat on because at the time I di
 ![image](https://user-images.githubusercontent.com/45341450/213933419-1177f480-5469-4efd-9a12-7761f52ed26b.png)
 
 ## Currently Incompatible
-With this [Widescreen Patch by gamemasterplc](https://www.youtube.com/watch?v=kG4IL_L8VI8)
+With this 
 
 ## Recommended procedure
+Get this [Widescreen Patch by gamemasterplc](https://www.youtube.com/watch?v=kG4IL_L8VI8)
 Grab the [UHD Texture Pack](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack).
 
 ## Installation
