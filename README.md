@@ -14,10 +14,10 @@ This is something I wanted to do for a while but sat on because at the time I di
 Follow the instructions in the video above and replace the .thp files in ``files\data``
 
 ## Files used to make this
-[Dolphin](https://dolphin-emu.org/download/) needs to be used for extracting and repacking the game
-I used [Foobar2000](https://www.foobar2000.org/download) for extracting the .wav from the original Gamecube's .mp4's
-[VLC](https://www.videolan.org/vlc/download-windows.html) to convert the .thp to .mp4s and to lower the resolution for THP Converter later.
-[ffmpeg](https://ffmpeg.org/download.html#build-windows) with this batch file:
+[Dolphin](https://dolphin-emu.org/download/) needs to be used for extracting and repacking the game\
+I used [Foobar2000](https://www.foobar2000.org/download) for extracting the .wav from the original Gamecube's .mp4's\
+[VLC](https://www.videolan.org/vlc/download-windows.html) to convert the .thp to .mp4s and to lower the resolution for THP Converter later.\
+[ffmpeg](https://ffmpeg.org/download.html#build-windows) with this batch file:\
 ``ffmpeg.exe -i "bath.mp4" -i "bath.wav" -c:v copy -c:a aac bath2.mp4 -y``\
 bath.mp4 = switch version\
 bath.wav = gamecube audio\
