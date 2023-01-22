@@ -11,6 +11,7 @@ This is something I wanted to do for a while but sat on because at the time I di
 ## Recommended procedure
 Before you get started, patch your rom with this [Widescreen Patch by gamemasterplc](https://www.youtube.com/watch?v=kG4IL_L8VI8) 
 It removes the black bars on the top and bottom of the screen, these appear during cutscenes.
+Grab the [UHD Texture Pack](https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack) too.
 
 ## Installation
 [Dolphin extract and repack games tutorial](https://www.youtube.com/watch?v=uK5HI6fQVK4)\
